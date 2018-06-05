@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<bookstore>
+	<book>
+		<title lang="eng">
+			Harry Potter
+			<name>werter</name>
+		</title>
+		<price>29.99</price>
+	</book>
+	<book>
+		<title lang="eng">
+			Learning XML
+			<name>XML</name>
+		</title>
+		<price>39.95</price>
+	</book>
+</bookstore>

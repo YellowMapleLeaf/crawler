@@ -1,0 +1,27 @@
+http://www.baidu.com
+
+http://blog.csdn.net/miyuexingchen/article/details/50206437
+
+http://www.sunck.wang:8080/sunck
+
+{"name":"sunck凯", "age":18, "hobby":["money","power","english"], "parames":{"a":1,"b":2}}
+
+http://www.sunck.wang:8080/index
+
+http://www.sunck.wang:8080/form
+
+https://movie.douban.com/typerank?type_name=%E5%89%A7%E6%83%85&type=11&interval_id=100:90&action=
+
+https://movie.douban.com/j/chart/top_list?type=11&interval_id=100%3A90&action=&start=40&limit=20
+
+http://list.yhd.com/c23586-0-81436/?tc=0.0.16.CatMenu_Search_100000040_154945.122&tp=1.1.3435.9.2.Lr1HaMt-10-CQvyh&ti=9HF9ut#page=1
+
+'((http|ftp|https)://)(([a-zA-Z0-9\._-]+\.[a-zA-Z]{2,6})|([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}))(:[0-9]{1,4})*(/[a-zA-Z0-9\&%_\./-~-]*)?'
+
+https://www.qiushibaike.com/text/page/1/
+
+# # 完整的headers # headers = { #
+"Accept" : "application/json, text/javascript, */*; q=0.01", #
+"X-Requested-With" : "XMLHttpRequest", #
+"User-Agent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36", #
+ "Content-Type" : "application/x-www-form-urlencoded; charset=UTF-8", # }
