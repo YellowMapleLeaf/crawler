@@ -14,3 +14,7 @@ class DoubantopPipeline(object):
         item['edition_year'] = info[-2]
         item['publisher'] = info[-3]
         return item
+
+class DoubanMovieCommentPipeline(object):
+    def process_item(self, item, spider):
+        return item
